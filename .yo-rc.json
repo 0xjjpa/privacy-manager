@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "facebookPrivacy",
+    "style": "sass",
+    "postcss": true
+  }
+}
